@@ -16,5 +16,10 @@ I´m a passionate Backend Developer. I love Java on his framework Spring Boot an
 <a href="https://app.daily.dev/detivenc"><img src="https://api.daily.dev/devcards/v2/VDWIptIheCBDEtcS2BLZH.png?type=wide&r=w0k" width="652" alt="Nicolas's Dev Card"/></a>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=DeTiveNC&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/DeTiveNC/DeTiveNC/blob/snake-animations/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
