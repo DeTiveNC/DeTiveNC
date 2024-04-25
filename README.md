@@ -1,7 +1,7 @@
 <h1 align="center"> 💫 About Me </h1>
 
 I´m a passionate Backend Developer. I love Java on his framework Spring Boot and Golang. I, also, have knowledge on CyberSecurity. Right now, I´m studying Computer Science on Vigo´s University<br><br><br>
-🌱 I’m currently learning Web Development, CyberSecurity<br><br>📫 How to reach me nicolascao12@gmail.com<br><br>⚡ Fun fact I´m a little bit funny some days.
+🌱 I’m currently learning Web Development, CyberSecurity<br><br>📫 How to reach me nuketown.skewed218@passinbox.com<br><br>⚡ Fun fact I´m a little bit funny some days.
 
 <h1 align="center"> 🌐 Socials </h1>
 
