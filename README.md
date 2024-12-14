@@ -32,3 +32,13 @@ I´m a passionate Backend Developer. I love Java on his framework Spring Boot, G
   
   <br/><br/><br/>
 </div>
+
+---
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/DeTiveNC"
+  width="600"
+  height="300"
+/>
+</a>
